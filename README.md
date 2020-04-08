@@ -16,3 +16,5 @@ Programming questions during Covid-19 pandemic. Using Leetcode top interview que
 <!-- 7. Longest Increasing Subsequence (Leetcode 300) -->
 
 7. Letter Combinations of a Phone Number (Leetcode 17)
+
+8. Remove Nth Node From End of List (Leetcode 19)
