@@ -50,6 +50,8 @@ Day 23 - Interval List Intersections
 
 Day 24 - Construct Binary Search Tree from Preorder Traversal
 
-Day 25 - Contiguous Array
-
 Day 25 - Uncrossed Lines
+
+Day 26 - Contiguous Array
+
+Day 27 - Possible Bipartition
