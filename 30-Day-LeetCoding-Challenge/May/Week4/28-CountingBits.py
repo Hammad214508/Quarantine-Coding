@@ -24,11 +24,10 @@ Can you do it like a boss? Do it without using any builtin function like __built
 # 110 11 (6 and 3)
 class Solution:
     def countBits(self, num: int) -> [int]:
-        if num < 2:
+        if num == 0:
             return [num]
         out = [0,1]
         for i in range(2,num+1):
-            print(i, i//2)
             out.append(out[i//2] + i%2)
         return out
 
