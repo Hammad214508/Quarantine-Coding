@@ -8,4 +8,16 @@ This is a very good challenge and opportunity for me to work on my problem solvi
 
 https://github.com/JaydipMagan/codingpractice/tree/master/leetcode
 
-I'm going to solving these problems everyday using my current knowledge, so they might not be optimal but they'll surely solve the problem efficciently.
+I'm going to solving these problems everyday using my current knowledge, so they might not be optimal but they'll surely solve the problem efficciently. Here is a link to the monthly challenges:
+
+April:
+
+https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/
+
+May:
+
+https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
+
+June:
+
+https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/
