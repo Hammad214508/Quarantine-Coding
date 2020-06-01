@@ -23,6 +23,25 @@ Google: 90% of our engineers use the software you wrote (Homebrew),
 but you can’t invert a binary tree on a whiteboard so f*** off.
 """
 
+def print2DUtil(root, space) : 
+      if not root:
+        return None
+
+    space += COUNT[0]
+
+    # Process right child first
+    print2DUtil(root.right, space)
+
+    # Print current node after space
+    # count
+    print()
+    for i in range(COUNT[0], space):
+        print(end = " ")
+    print(root.data)
+
+    # Process left child
+    print2DUtil(root.left, space)
+
 # Definition for a binary tree node.
 class TreeNode:
 
@@ -30,10 +49,6 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
-
-    def __str__(self):
-        return str(self.val) 
-
 
 class Solution:
     def invertTree(self, root: TreeNode) -> TreeNode:
