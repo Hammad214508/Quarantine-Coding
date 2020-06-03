@@ -26,15 +26,9 @@ Note:
 # Evaluate final sum as 10 + 30 + 400 + 300 + -350 + -10 = 110
 class Solution:
     def twoCitySchedCost(self, costs: [[int]]) -> int:
-        costs.sort(key = lambda x: x[0] - x[1])
-        lth = len(costs) // 2
-        cost = 0
-        for i in range(lth):
-            cost += costs[i][0]
-        for i in range(lth, 2 * lth):
-            cost += costs[i][1]
-        return cost
-
+        FirstCity = [i for i,j in costs]
+        Diff = [j - i for i,j in costs]
+        return sum(FirstCity) + sum(sorted(Diff)[:len(costs)//2])
 
 
 solution = Solution()
