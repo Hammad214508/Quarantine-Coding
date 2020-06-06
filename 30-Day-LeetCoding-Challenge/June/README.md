@@ -11,3 +11,5 @@ Day 3 - Two City Scheduling
 Day 4 - Reverse String
 
 Day 5 - Random Pick with Weight
+
+Day 6 - Queue Reconstruction by Height
