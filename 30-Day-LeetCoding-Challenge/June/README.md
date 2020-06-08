@@ -15,3 +15,5 @@ Day 5 - Random Pick with Weight
 Day 6 - Queue Reconstruction by Height
 
 Day 7 - Coin Change 2
+
+Day 8 - Power of Two
