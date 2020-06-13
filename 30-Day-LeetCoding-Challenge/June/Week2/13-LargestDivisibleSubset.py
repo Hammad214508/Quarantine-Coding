@@ -23,6 +23,7 @@ class Solution:
             for j in range(i):
                 if nums[i] % nums[j] == 0 and len(sol[i]) < len(sol[j]) + 1:
                     sol[i] = sol[j] + [nums[i]]
+        print(sol)
         return max(sol, key=len)
 
 
