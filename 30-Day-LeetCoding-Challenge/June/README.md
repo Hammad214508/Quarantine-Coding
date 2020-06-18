@@ -35,3 +35,5 @@ Day 15 - Serach in a Binary Tree
 Day 16 - Validate IP Address
 
 Day 17 - Surrounded Regions
+
+Day 18 - H-Index II
