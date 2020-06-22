@@ -43,3 +43,5 @@ Day 19 - Longest Duplicate Substring
 Day 20 - Permutation Sequence
 
 Day 21 - Dungeon Game
+
+Day 22- Single Number II
