@@ -1,5 +1,7 @@
 # 30-Day-LeetCoding-Challenge
 
-## May
+## July
 
 Day 1 - Arranging Coins
+
+Day 2 - Binary Tree Level Order Traversal II
