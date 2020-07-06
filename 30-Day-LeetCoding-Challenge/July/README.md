@@ -11,3 +11,5 @@ Day 3 - Prison Cells After N Days
 Day 4 - Ugly Number II
 
 Day 5 - Hamming Distance
+
+Day 6 - Plus One
