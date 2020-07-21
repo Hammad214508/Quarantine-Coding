@@ -41,3 +41,13 @@ class Solution:
 		for j in range(n):
 			if search(i, j, 0): return True
 	return False
+
+solution = Solution()
+board =
+[
+  ['A','B','C','E'],
+  ['S','F','C','S'],
+  ['A','D','E','E']
+]
+res = solution.exists(board)
+print(res)
