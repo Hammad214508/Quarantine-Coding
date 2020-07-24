@@ -44,4 +44,8 @@ Day 20 - Remove Linked List Elements
 
 Day 21 - Word Search
 
-Day 22 - Single Number III
+Day 22 - Binary Tree Ziz Zag Level Order Traversal
+
+Day 23 - Single Number III
+
+Day 24 - All Paths From Source to Target
