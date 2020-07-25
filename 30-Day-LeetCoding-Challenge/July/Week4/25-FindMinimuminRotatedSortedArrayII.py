@@ -36,3 +36,5 @@ class Solution:
         self.Min = float("inf")
         bin_dfs(0, len(nums) - 1)
         return self.Min
+
+    
