@@ -1,4 +1,4 @@
-# LeetCode Programming Questions 
+# LeetCode Programming Questions
 Programming questions during Covid-19 pandemic. Using Leetcode top interview questions with medium difficulty. The question description can be found in the files themselves and the leetcode number is also given.
 
 1. Add Two Numbers (Leetcode 2)
