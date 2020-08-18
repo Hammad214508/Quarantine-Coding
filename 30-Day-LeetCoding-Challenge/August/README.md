@@ -35,3 +35,5 @@ Day 15 - Non-overlapping Intervals
 Day 16 - Best Time to Buy and Sell Stock III
 
 Day 17 - Distribute Candies to People
+
+Day 18 - Numbers With Same Consecutive Differences
