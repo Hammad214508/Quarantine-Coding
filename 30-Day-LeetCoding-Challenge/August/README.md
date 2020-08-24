@@ -47,3 +47,5 @@ Day 21 - Sort Array By Parity
 Day 22 - Random Point in Non-overlapping Rectangles
 
 Day 23 - Stream of Characters
+
+Day 24 - Sum of Left Leaves
