@@ -51,3 +51,5 @@ Day 23 - Stream of Characters
 Day 24 - Sum of Left Leaves
 
 Day 25 - Minimum Cost For Tickets
+
+Day 26 - Fizz Buzz
