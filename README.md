@@ -22,6 +22,10 @@ August:
 
 https://leetcode.com/explore/challenge/card/august-leetcoding-challenge
 
+September:
+
+https://leetcode.com/explore/featured/card/september-leetcoding-challenge/
+
 
 More information can be found in the corresponding directory and aside from these I will also be solving other random leetcode coding problems.
 

@@ -29,3 +29,7 @@ https://leetcode.com/explore/challenge/card/july-leetcoding-challenge
 August:
 
 https://leetcode.com/explore/challenge/card/august-leetcoding-challenge
+
+September:
+
+https://leetcode.com/explore/featured/card/september-leetcoding-challenge/
