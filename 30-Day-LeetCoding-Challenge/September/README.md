@@ -11,3 +11,5 @@ Day 3 - Repeated Substring Pattern
 Day 4 - Partition Labels
 
 Day 5 - All Elements in Two Binary Search Trees
+
+Day 6 - Image Overlap
