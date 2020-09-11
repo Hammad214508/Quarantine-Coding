@@ -17,3 +17,5 @@ Day 6 - Image Overlap
 Day 7 - Word Pattern
 
 Day 8 - Sum of Root To Leaf Binary Numbers
+
+Day 9 - Compare Version Numbers
