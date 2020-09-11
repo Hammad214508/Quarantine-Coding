@@ -15,3 +15,5 @@ Day 5 - All Elements in Two Binary Search Trees
 Day 6 - Image Overlap
 
 Day 7 - Word Pattern
+
+Day 8 - Sum of Root To Leaf Binary Numbers
