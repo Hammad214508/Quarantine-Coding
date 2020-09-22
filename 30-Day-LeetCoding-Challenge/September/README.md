@@ -19,3 +19,7 @@ Day 7 - Word Pattern
 Day 8 - Sum of Root To Leaf Binary Numbers
 
 Day 9 - Compare Version Numbers
+
+Day 10 -  Bulls and Cows
+
+Day 11 - Maximum Product Subarray
